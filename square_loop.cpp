@@ -2,7 +2,7 @@
 //
 // Created by: Wajd Mariam
 // Created on:October 2019
-// This program loops and multiplies all the whole
+// This program calculates the square of a number
 
 #include <iostream>
 
@@ -13,7 +13,7 @@ main() {
     int number;
 
     // input
-    std::cout << "Enter a number to loop it and multiply its results: ";
+    std::cout << "Enter a number to loop it and square its results: ";
     std::cin >> number;
 
     // process & looping
